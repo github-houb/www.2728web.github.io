@@ -5,5 +5,6 @@
   <li><a href="https://www.csdn.net"           target="view_window">CSDN</a></li>
   <li><a href="https://www.xiaopian.com"       target="view_window">电影</a></li>
   <li><a href="http://www.elecfans.com/"           target="view_window">电子发烧友</a></li>
-
+  <li><a href="http://instagram.com/"           target="view_window">照片墙INS</a></li>
+  
 </ul>
